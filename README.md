@@ -26,17 +26,25 @@ Aqui você encontrará meus projetos, aprendizados e experiências — tudo cons
 ### 🛠️ Tecnologias e Ferramentas
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-originalg src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS3evicons/devicon/icons/sass/sass-original.svg
-  <img src="https://cdn.jsdelivrvicons/devicon/icons/bootstrap/bootstrap-original.svg
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg/cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/htmliginal.svg
+  https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg
+  https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg
+  https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg
+  https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40vr.net/gh/devicons/devicon/icons/python/python-original.svg
+  https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg
   https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg
-  https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg
-  https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40" alt="SQLiteicons/devicon/icons/git/git-original.svg
   https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg
-  <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019.png" width="40"com/color/48/000000/microsoft-word-2019.png
-  <img src="https://imgm/color/48/000000/microsoft-powerpoint-2019.png
-  <img src="https://img.icons8.com/color/48/000000/power-bi.png" width="40" alt="e Cursos
+  https://img.icons8.com/color/48/000000/microsoft-excel-2019.png
+  https://img.icons8.com/color/48/000000/microsoft-word-2019.png
+  https://img.icons8.com/color/48/000000/microsoft-powerpoint-2019.png
+  https://img.icons8.com/color/48/000000/power-bi.png
+</p>
+
+---
+
+### 📚 Formação e Cursos
 
 - **Ensino Médio Completo** – E.E. Madre Paulina  
 - **IMBRA – Developers For Life (195h)**  
@@ -52,10 +60,4 @@ Aqui você encontrará meus projetos, aprendizados e experiências — tudo cons
 - **Cadastro de Clientes**  
   Aplicação web com sistema CRUD usando Python, Flask e SQLite.  
   Frontend responsivo com HTML e CSS, incluindo modal animado.  
-  🔗 Ver projeto no GitHub
----
-
-### 🌐 Idiomas
-
-- 🇧🇷 Português: Nativo  
-- 🇺🇸 Inglês: Básico
+  🔗 [Ver projeto no GitHub](https://github.com/MaryanaOlvra/cadastro-client- 🇺🇸 Inglês: Básico
