@@ -13,15 +13,11 @@ Aqui você encontrará meus projetos, aprendizados e experiências — tudo cons
 🔗 LinkedIn  
 🔗 [Instagram](https://www.instagram.com/olvilizo
 
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <ttps://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg
-  https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg
-  https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg
-  https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svgc="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" altt/gh/devicons/devicon/icons/python/python-original.svg
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40" altsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" alt="C#/devicons/devicon/icons/sqlite/sqlite-original.svg
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svgc="https://img.icons8.com/color/48/000000/microsoft-excel-2019.png" width="40"mg.icons8.com/color/48/000000/microsoft-word-2019.png" width="40" altcons8.com/color/48/000000/microsoft-powerpoint-2019.png" width="40.com/color/48/000000/power-bi.png
-</div>
+## 🛠️ Tecnologias que utilizo
+
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" widthdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="40" altsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-originalg src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="Javar.net/gh/devicons/devicon/icons/react/react-original.svg" widths://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svgc="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" alt="elivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svgc="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Gitvr.net/gh/devicons/devicon/icons/github/github-original.svg" width="//img.icons8.com/color/48/000000/microsoft-excel-2019.png" width="40" alt="Excelom/color/48/000000/microsoft-word-2019.png" width="40" altcons8.com/color/48/000000/microsoft-powerpoint-2019.png" width="40img.icons8.com/color/48/000000/power-bi.png" width="
 
 ---
 
