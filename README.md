@@ -1,3 +1,4 @@
+
 ## 👋🏽 Olá, eu sou a Maryana
 
 Seja bem-vindo(a) ao meu espaço no GitHub!  
@@ -25,10 +26,23 @@ Aqui você encontrará meus projetos, aprendizados e experiências — tudo cons
 
 ### 🛠️ Tecnologias e Ferramentas
 
-**Front-End:** HTML5, CSS3, SASS, Bootstrap, JavaScript, React.js  
-**Back-End:** Python, Flask, C#, SQL (básico)  
-**Ferramentas:** Git, GitHub, Power BI, Pacote Office  
-**UX Design:** Wireframes, protótipos, design thinking, acessibilidade
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg
+  https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg
+  https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg
+  https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-originalps://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg
+  https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg
+  https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg
+  https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg
+  https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg
+  https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg
+  https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg
+  https://img.icons8.com/color/48/000000/microsoft-excel-2019.png
+  https://img.icons8.com/color/48/000000/microsoft-word-2019.png
+  https://img.icons8.com/color/48/000000/microsoft-powerpoint-2019.png
+  <img src="https://img.icons8.com000000/power-bi.png
+</div>
 
 ---
 
@@ -42,3 +56,17 @@ Aqui você encontrará meus projetos, aprendizados e experiências — tudo cons
 - **Coursera – Google UX Design (200h, em andamento)**
 
 ---
+
+### 💻 Projetos
+
+- **Cadastro de Clientes**  
+  Aplicação web com sistema CRUD usando Python, Flask e SQLite.  
+  Frontend responsivo com HTML e CSS, incluindo modal animado.  
+  🔗 Ver projeto no GitHub
+
+---
+
+### 🌐 Idiomas
+
+- 🇧🇷 Português: Nativo  
+- 🇺🇸 Inglês: Básico
