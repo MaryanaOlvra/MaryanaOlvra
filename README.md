@@ -1,4 +1,4 @@
-## 👋🏽 Olá, eu sou a Maryana!
+## 👋🏻 Olá, eu sou a Maryana!
 
 Seja bem-vindo(a) ao meu espaço no GitHub!  
 Sou estudante de Desenvolvimento Web com experiência em prevenção à fraude e análise de dados.  
