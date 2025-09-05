@@ -1,4 +1,4 @@
-## 👋🏽 Olá, eu sou a Maryana
+## 👋🏽 Olá, eu sou a Maryana 
 
 Seja bem-vindo(a) ao meu espaço no GitHub!  
 Sou estudante de Desenvolvimento Web com experiência em prevenção à fraude e análise de dados.  
@@ -26,20 +26,29 @@ Aqui você encontrará meus projetos, aprendizados e experiências — tudo cons
 ### 🛠️ Tecnologias e Ferramentas
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/htmliginal.svg
-  https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg
-  https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg
-  https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg
-  https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40vr.net/gh/devicons/devicon/icons/python/python-original.svg
-  https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg
-  https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40" alt="SQLiteicons/devicon/icons/git/git-original.svg
-  https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg
-  https://img.icons8.com/color/48/000000/microsoft-excel-2019.png
-  https://img.icons8.com/color/48/000000/microsoft-word-2019.png
-  https://img.icons8.com/color/48/000000/microsoft-powerpoint-2019.png
-  https://img.icons8.com/color/48/000000/power-bi.png
+  <!-- Front-End -->
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+
+  <!-- Back-End -->
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+
+  <!-- Ferramentas -->
+  <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+
+  <!-- Pacote Office -->
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" />
+  <img src="https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white" />
 </p>
 
 ---
@@ -60,4 +69,11 @@ Aqui você encontrará meus projetos, aprendizados e experiências — tudo cons
 - **Cadastro de Clientes**  
   Aplicação web com sistema CRUD usando Python, Flask e SQLite.  
   Frontend responsivo com HTML e CSS, incluindo modal animado.  
-  🔗 [Ver projeto no GitHub](https://github.com/MaryanaOlvra/cadastro-client- 🇺🇸 Inglês: Básico
+  🔗 Ver projeto no GitHub
+
+---
+
+### 🌐 Idiomas
+
+- 🇧🇷 Português: Nativo  
+- 🇺🇸 Inglês: Básico
