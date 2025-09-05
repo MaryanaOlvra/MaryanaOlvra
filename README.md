@@ -29,8 +29,6 @@ Aqui você encontrará meus projetos, aprendizados e experiências — tudo cons
   Frontend responsivo em **HTML e CSS**, incluindo modal animado.  
   🔗 [Ver projeto no GitHub](#)
 
-*(Sugiro adicionar mais 1–2 projetos para enriquecer essa seção, mesmo que simples, como site responsivo ou dashboard em Power BI)*
-
 ---
 
 ### 🛠️ Tecnologias & Ferramentas
