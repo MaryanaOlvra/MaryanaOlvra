@@ -1,4 +1,4 @@
-## 👋🏽 Olá, eu sou a Maryana 
+## 👋🏽 Olá, eu sou a Maryana!
 
 Seja bem-vindo(a) ao meu espaço no GitHub!  
 Sou estudante de Desenvolvimento Web com experiência em prevenção à fraude e análise de dados.  
@@ -17,7 +17,7 @@ Aqui você encontrará meus projetos, aprendizados e experiências — tudo cons
 ### 🚀 Sobre mim
 
 - 💼 Experiência na Clear Sale como Jovem Aprendiz em autenticação e análise antifraude  
-- 🧠 Formação técnica e comportamental em cursos como **IMBRA**, **Fundação Bradesco**, **Senac**, **Coursera**  
+- 🧠 Formação técnica e comportamental em cursos de instituições como **Senac**, **Fundação Bradesco**, **Coursera**, **Instituto Muda Brasil**  
 - 💻 Foco em desenvolvimento web, com projetos autorais e estudos em UX Design  
 - 🌱 Aprendendo continuamente e construindo um portfólio com base em boas práticas de desenvolvimento
 
@@ -54,13 +54,12 @@ Aqui você encontrará meus projetos, aprendizados e experiências — tudo cons
 ---
 
 ### 📚 Formação e Cursos
-
-- **Ensino Médio Completo** – E.E. Madre Paulina  
-- **IMBRA – Developers For Life (195h)**  
-- **IMBRA – Jovens Transformadores (120h)**  
-- **Fundação Bradesco – Fundamentos de Power BI (37h)**  
-- **Serasa Experian + Senac – Transforme-se (280h, em andamento)**  
-- **Coursera – Google UX Design (200h, em andamento)**
+ 
+- **Developers For Life - Instituto Muda Brasil (195h)**  
+- **Jovens Transformadores _ Instituto Muda Brasil (120h)**
+- **Senac – Transforme-se Serasa Experian (280h, em andamento)** 
+- **Fundamentos de Power BI - Fundação Bradesco (37h)**   
+- **Google UX Design - Coursera (200h)**
 
 ---
 
