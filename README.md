@@ -8,9 +8,9 @@ Aqui você encontrará meus projetos, aprendizados e experiências — tudo cons
 ---
 
 ### 📍 São Paulo, Brasil  
-📧 mlopeslucariello@gmail.com  
-📱 (11) 93002-7669  
-🔗 LinkedIn
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mlopeslucariello@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maryana-oliveira)
 
 ---
 
@@ -56,9 +56,9 @@ Aqui você encontrará meus projetos, aprendizados e experiências — tudo cons
 ### 📚 Formação e Cursos
  
 - **Developers For Life - Instituto Muda Brasil (195h)**  
-- **Jovens Transformadores _ Instituto Muda Brasil (120h)**
-- **Senac – Transforme-se Serasa Experian (280h, em andamento)** 
-- **Fundamentos de Power BI - Fundação Bradesco (37h)**   
+- **Jovens Transformadores - Instituto Muda Brasil (120h)**  
+- **Senac – Transforme-se Serasa Experian (280h, em andamento)**  
+- **Fundamentos de Power BI - Fundação Bradesco (37h)**  
 - **Google UX Design - Coursera (200h)**
 
 ---
