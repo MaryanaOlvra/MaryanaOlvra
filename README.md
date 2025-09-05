@@ -7,10 +7,10 @@ Aqui você encontrará meus projetos, aprendizados e experiências — tudo cons
 
 ---
 
-### 📫 Contatos
-📍 São Paulo, Brasil  
-📧 mlopeslucariello@gmail.com  
+### 📫 Contatos  
 🔗 [LinkedIn](https://www.linkedin.com/in/maryana-oliveira)
+📧 mlopeslucariello@gmail.com
+📍 São Paulo, Brasil  
 
 ---
 
