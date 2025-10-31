@@ -61,6 +61,14 @@ Aqui você encontrará meus projetos, aprendizados e experiências — tudo cons
 
 ---
 
+## ⚡ GitHub Stats  
+
+
+!<img src="https://github-readme-stats.vercel.app/api?username=DanielBrianez&show_icons=true&theme=tokyonight" alt="GitHub stats"/>
+!<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielBrianez&layout=compact&theme=tokyonight" alt="Top Langs"/>
+
+---
+
 ### 📚 Formação & Cursos
 - **Developers For Life - Instituto Muda Brasil (195h)**  
 - **Jovens Transformadores - Instituto Muda Brasil (120h)**  
