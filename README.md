@@ -11,7 +11,6 @@ Sou apaixonada por tecnologia e busco aplicar boas práticas de desenvolvimento 
 
 ### 🛠️ Tecnologias & Ferramentas
 
-#### Front-End
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -29,19 +28,6 @@ Sou apaixonada por tecnologia e busco aplicar boas práticas de desenvolvimento 
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
   <img src="https://img.shields.io/badge/Microsoft%20Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" />
 </p>
-
----
-
-## ⚡ Estatísticas do GitHub
-
-<div align="center">
-
-<a href="https://github.com/MaryanaOlvra">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=MaryanaOlvra&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaryanaOlvra&layout=compact&langs_count=7&theme=tokyonight&locale=pt-br"/>
-</a>
-
-</div>
 
 ---
 
