@@ -31,6 +31,15 @@ Sou apaixonada por tecnologia e busco aplicar boas práticas de desenvolvimento 
 
 ---
 
+### 📊 Estatísticas do GitHub
+
+<div align="left">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luanps2&layout=compact&theme=radical" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=luanps2&show_icons=true&theme=radical&count_private=true" />
+</div>
+
+---
+
 ### 🌐 Idiomas
 - 🇧🇷 Português: Nativo  
 - 🇺🇸 Inglês: Básico
