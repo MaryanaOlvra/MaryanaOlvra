@@ -5,7 +5,6 @@ Seja bem-vindo(a) ao meu espaço no GitHub!
 Sou estudante de Desenvolvimento Web, com base em análise de dados e experiência em prevenção à fraude — o que fortalece meu olhar analítico e atenção a padrões e comportamentos.
 
 Atualmente, estou focada em evoluir em C#, SQL Server e construção de aplicações web, explorando desde a lógica até a implementação de soluções completas.
-
 Tenho interesse em desenvolver sistemas que sejam não só funcionais, mas também organizados, intuitivos e seguros, unindo tecnologia, experiência do usuário e boas práticas de desenvolvimento.
 
 Aqui você vai encontrar projetos que refletem minha evolução constante, minha forma de pensar e minha vontade de transformar aprendizado em soluções reais.
@@ -45,7 +44,7 @@ Aqui você vai encontrar projetos que refletem minha evolução constante, minha
 
 ### 🌐 Idiomas
 - 🇧🇷 Português: Nativo  
-- 🇺🇸 Inglês: Básico
+- 🇺🇸 Inglês: Intermediário
 
 ---
 
