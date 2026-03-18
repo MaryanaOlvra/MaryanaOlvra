@@ -1,11 +1,11 @@
-## 👋🏻 Olá, eu sou a Maryana!  
+## 👋🏻 Olá, eu sou a Maryana!
 
-Seja bem-vindo(a) ao meu espaço no GitHub!  
-Sou **estudante de Desenvolvimento Web** com experiência em **prevenção à fraude e análise de dados**.  
-Atuei como **Jovem Aprendiz na Clear Sale**, com foco em **autenticação e análise antifraude**, e atualmente estou me desenvolvendo em **C#** e **SQL Server**.
+Seja bem-vindo(a) ao meu espaço no GitHub!
 
-Tenho formação por instituições como **Senac**, **Fundação Bradesco**, **Coursera** e **Instituto Muda Brasil**, e me interesso por **análise de dados com Power BI** e pela criação de **soluções digitais centradas no usuário**.  
-Sou apaixonada por tecnologia e busco aplicar boas práticas de desenvolvimento em projetos que unam **usabilidade, inovação e propósito**.
+Sou estudante de Desenvolvimento Web, com base em análise de dados e experiência em prevenção à fraude — o que fortalece meu olhar analítico e atenção a padrões e comportamentos.
+Atualmente, estou focada em evoluir em C#, SQL Server e construção de aplicações web, explorando desde a lógica até a implementação de soluções completas.
+Tenho interesse em desenvolver sistemas que sejam não só funcionais, mas também organizados, intuitivos e seguros, unindo tecnologia, experiência do usuário e boas práticas de desenvolvimento.
+Aqui você vai encontrar projetos que refletem minha evolução constante, minha forma de pensar e minha vontade de transformar aprendizado em soluções reais.
 
 ---
 
